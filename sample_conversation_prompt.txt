@@ -1,0 +1,19 @@
+“Explain in a highly detailed manner how a modern enterprise-grade Retrieval-Augmented Generation (RAG) system should be architected when dealing with large-scale, multi-domain knowledge bases containing structured, semi-structured, and unstructured data. Your explanation must cover ingestion, chunking strategies, embedding generation, vector storage approaches, metadata-aware filtering, hybrid retrieval pipelines, ranking strategies, post-retrieval augmentation layers, LLM-output grounding, hallucination mitigation methods, evaluation techniques, and optimisation approaches for cost & latency.”
+
+However, simply explaining the architecture is not enough. You must also:
+	1.	Compare at least three different embedding models (e.g., OpenAI, Cohere, VoyageAI) in terms of performance, context robustness, domain adaptation, and cost trade-offs.
+	2.	Compare FAISS, Pinecone, and Weaviate from the perspective of index types, memory requirements, scaling characteristics, metadata filtering capabilities, multi-tenancy, and real-world reliability.
+	3.	Explain how to design a query-rewriting agentic layer that takes a user query, performs multi-hop reasoning, rewrites the query iteratively, and retrieves documents in steps to get deeper context.
+	4.	Describe how to implement a “self-evaluation” or “LLM-as-a-judge” scoring pipeline to continuously measure faithfulness, grounding, factual alignment, and answer-versus-context overlap.
+	5.	Describe at least six failure cases of RAG (e.g., embedding drift, incomplete indexing, semantic collisions, dense retrieval overfitting, irrelevant chunk recall, context poisoning), why they occur, and how to mitigate each.
+	6.	Propose a cost-optimised architecture in which different LLMs are routed based on query type, complexity, or domain.
+	7.	Provide a full end-to-end description (from ingestion to generation) of a final recommended architecture that would work for a complex enterprise with multiple departments, legacy systems, ML pipelines, and thousands of weekly queries.
+
+The writing style you use must be:
+• extremely analytical
+• free of fluff
+• structured with clear sections
+• technically precise
+• deeply reasoned with no superficial explanations
+• similar to how a senior GenAI architect would write a design document
+• fully standalone, with no assumptions about prior context.
