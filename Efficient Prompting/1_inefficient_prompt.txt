@@ -1,0 +1,3 @@
+Analyze the following product review and tell me what you think about it. Include the sentiment, main points, any issues mentioned, and what we should do about it.
+
+Review: "I bought this wireless mouse last week. The battery life is amazing - lasts for months! However, the scroll wheel is too sensitive and I often scroll past what I'm trying to read. The ergonomics are great for my hand size. Price is reasonable compared to competitors. Would buy again despite the scroll issue."

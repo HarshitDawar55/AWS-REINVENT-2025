@@ -1,0 +1,10 @@
+Only answer Priority (P1/P2/P3/P4):
+
+Examples:
+"Server down"→P1
+"Can't login"→P2
+
+"Slow load"→P3
+"Typo"→P4
+
+Ticket: "Login button not working on mobile app"

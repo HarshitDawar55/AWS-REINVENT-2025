@@ -1,0 +1,10 @@
+Classify support ticket priority based on these examples:
+
+Ticket: "Server is down" → P1-Critical
+Ticket: "Some Malfunction" → P2-High
+Ticket: "Can't Login" → P3-Medium
+Ticket: "Feature request: dark mode" → P4-Low
+Ticket: "Payment processing slow" → P2-High
+
+Now classify:
+Ticket: "Login button not working on mobile app"

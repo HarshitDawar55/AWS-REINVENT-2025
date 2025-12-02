@@ -1,0 +1,11 @@
+Analyze review. Output JSON only:
+
+{
+  "sentiment": "positive|negative|mixed",
+  "score": 1-5,
+  "pros": ["item1", "item2"],
+  "cons": ["item1"],  
+  "action": "single sentence recommendation only"
+}
+
+Review: "I bought this wireless mouse last week. The battery life is amazing - lasts for months! However, the scroll wheel is too sensitive and I often scroll past what I'm trying to read. The ergonomics are great for my hand size. Price is reasonable compared to competitors. Would buy again despite the scroll issue."
