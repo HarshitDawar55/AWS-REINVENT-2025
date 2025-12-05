@@ -1,0 +1,4 @@
+Test Contract Clause: "Party A shall indemnify Party B against all claims, damages, and expenses arising from Party A's breach of Section 4.2, provided that Party B has given Party A prompt written notice of such claim and reasonable opportunity to defend or settle such claim at Party A's expense, and further provided that Party B shall not settle any claim without Party A's prior written consent, which consent shall not be unreasonably withheld."
+
+
+Question: "What are Party A's obligations and what conditions must Party B meet?"
